@@ -2,7 +2,7 @@
 name = "schwarzschild-raytracer"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+license-file = "LICENSE"
 description = "Renders a black hole and its accretion disk by tracing light rays through Schwarzschild spacetime"
 authors = ["Ankit Pawar"]
 
